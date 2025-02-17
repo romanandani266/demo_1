@@ -34,7 +34,7 @@ The current inventory management processes face challenges such as inefficiencie
 - **User Authentication & Management**: User registration, login, role-based access control (Admin, Warehouse Manager, Retail Partner), and secure JWT-based authentication.
 - **Inventory Management**: Product CRUD operations, displaying stock levels, handling low-stock alerts, and product categorization.
 - **Reporting & Sales Analytics**: Dashboard with sales trends, graphical reports, and the ability to generate sales reports.
-- **Integration with External Systems**: Integration with PepsiCo’s supply chain system for data retrieval.
+- **Integration with External Systems**: Integration with PepsiCoâ€™s supply chain system for data retrieval.
 
 ### Out-of-Scope Items
 - Advanced AI-driven forecasting
@@ -153,7 +153,7 @@ The current inventory management processes face challenges such as inefficiencie
 - Selection of React for frontend development.
 
 ### Dependencies Register
-- Integration with PepsiCo’s supply chain system.
+- Integration with PepsiCoâ€™s supply chain system.
 - Use of third-party APIs for sales data retrieval.
 
 ### Appendices
