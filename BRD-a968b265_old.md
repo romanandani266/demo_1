@@ -10,7 +10,7 @@
 The purpose of this Business Requirements Document (BRD) is to outline the requirements for the development of a Retail Inventory Management System. This document serves as a guide for project stakeholders, developers, and business managers throughout the software development life cycle. It ensures that all parties have a clear understanding of the system's objectives, scope, and requirements.
 
 #### Scope of the Project
-The project aims to develop a web-based inventory management system that tracks product stock levels, predicts restocking needs, and minimizes waste. The system will include functionalities such as real-time inventory tracking, automated restocking alerts, and sales trend analysis. Integrations with third-party services, such as PepsiCo’s supply chain system, will be considered. Advanced AI-driven forecasting and mobile application development are out of scope for this project.
+The project aims to develop a web-based inventory management system that tracks product stock levels, predicts restocking needs, and minimizes waste. The system will include functionalities such as real-time inventory tracking, automated restocking alerts, and sales trend analysis. Integrations with third-party services, such as PepsiCoâ€™s supply chain system, will be considered. Advanced AI-driven forecasting and mobile application development are out of scope for this project.
 
 #### Business Objectives
 - Improve inventory visibility and accuracy.
@@ -66,7 +66,7 @@ The current inventory management processes face challenges such as inefficiencie
 
 #### Technical Requirements
 - Technology Stack: Python, Flask, PostgreSQL, React, Redux, Material-UI, Axios.
-- Third-party Integrations: PepsiCo’s supply chain system.
+- Third-party Integrations: PepsiCoâ€™s supply chain system.
 
 #### Data Management
 Data will flow through secure APIs, stored in PostgreSQL, and managed with Data Flow Diagrams (DFDs).
@@ -117,10 +117,10 @@ Data will flow through secure APIs, stored in PostgreSQL, and managed with Data 
 - Technology stack: Python, Flask, PostgreSQL, React
 
 #### Dependencies Register
-- External dependencies: PepsiCo’s supply chain system, third-party APIs.
+- External dependencies: PepsiCoâ€™s supply chain system, third-party APIs.
 
 #### Appendices
 - **Glossary of Terms**: JWT, CRUD operations, etc.
-- **References**: Coca-Cola’s retail inventory solutions, Unilever’s supply chain tools.
+- **References**: Coca-Colaâ€™s retail inventory solutions, Unileverâ€™s supply chain tools.
 
 This document provides a comprehensive overview of the Retail Inventory Management System project, ensuring all stakeholders have a clear understanding of the objectives, scope, and requirements.
